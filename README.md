@@ -1,0 +1,2 @@
+# lotto
+automatic lottery purchase
